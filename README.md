@@ -1,2 +1,2 @@
 # test-project
-yup
+print "hello Cory"
